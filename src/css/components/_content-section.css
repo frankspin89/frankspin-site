@@ -12,4 +12,5 @@
 .c-content-section__title {
   text-transform: uppercase;
   font-size: var(--font-size-default);
+  letter-spacing: var(--letter-spacing-600);
 }
