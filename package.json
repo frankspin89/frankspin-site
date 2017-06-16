@@ -41,7 +41,6 @@
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^8.1.2",
     "postcss-loader": "^0.9.1",
-    "postcss-nested": "^2.0.2",
     "postcss-uncss": "^0.14.0",
     "uncss": "^0.14.1",
     "url-loader": "^0.5.7",
