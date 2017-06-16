@@ -4,7 +4,6 @@ import gutil from "gulp-util";
 import postcss from "gulp-postcss";
 import cssImport from "postcss-import";
 import cssnext from "postcss-cssnext";
-import cssNested from "postcss-nested";
 import BrowserSync from "browser-sync";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
